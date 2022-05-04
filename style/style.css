@@ -10,7 +10,7 @@ body {
     padding-top: 5px;
     color: #FFD700;
     font-family: fantasy;
-    text-shadow: 2px 2px black;
+    text-shadow: 3px 3px black;
 }
 
 .board-header {
@@ -20,7 +20,7 @@ body {
     margin-top: 8em;
     color: #FFD700;
     font-family: fantasy;
-    text-shadow: 2px 2px black;
+    text-shadow: 3px 3px black;
 }
 
 .box {
