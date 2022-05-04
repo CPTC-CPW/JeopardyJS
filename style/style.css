@@ -1,18 +1,32 @@
+body {
+    background-color: black;
+}
+
 .board {
     display: grid;
     grid-template-columns: 15em 15em 15em 15em 15em 15em;
     grid-template-rows: 7em 7em 7em 7em 7em 7em;
     justify-content: center;
-    background-color: #0e5cf7;
-    padding: 10px;
+    padding-top: 5px;
     color: #FFD700;
-    font-family: ;
+    font-family: fantasy;
+    text-shadow: 2px 2px black;
+}
+
+.board-header {
+    display: grid;
+    grid-template-columns: 15em 15em 15em 15em 15em 15em;
+    justify-content: center;
+    margin-top: 8em;
+    color: #FFD700;
+    font-family: fantasy;
+    text-shadow: 2px 2px black;
 }
 
 .box {
-    background-color: whitesmoke; /*#060CE9 this is the color of the jeopardy board*/
+    background-color: blue; /*#060CE9 this is the color of the jeopardy board*/
     border: 2px solid rgba(0, 0, 0, 0.8);
     padding: 20px;
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
   }
