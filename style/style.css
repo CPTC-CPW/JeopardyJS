@@ -1,6 +1,18 @@
 .board {
     display: grid;
-    grid-template-columns: auto;
-    grid-template-rows: auto;
+    grid-template-columns: 15em 15em 15em 15em 15em 15em;
+    grid-template-rows: 7em 7em 7em 7em 7em 7em;
     justify-content: center;
+    background-color: #0e5cf7;
+    padding: 10px;
+    color: #FFD700;
+    font-family: ;
 }
+
+.box {
+    background-color: whitesmoke; /*#060CE9 this is the color of the jeopardy board*/
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
