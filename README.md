@@ -1,3 +1,3 @@
 # JeopardyJS
 
-An online Jeopardy game clone. The Jeopordy board will be the standard 5x6 board the show uses.
+An online Jeopardy game clone. The Jeopardy board will be the standard 5x6 board the show uses.
